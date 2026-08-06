@@ -29,7 +29,7 @@ Child labour remains a significant challenge, with varying prevalence across cou
 - Average child labour rate: 12.20%
 - Burundi recorded the highest child labour rate.
 - Russian Federation recorded the lowest reported rate (0%).
-- hild labour declined from 2020–2023, with a slight increase in 2024.
+- Child labour declined from 2020–2023, with a slight increase in 2024.
 - Children aged 5–17 were the most affected.
 - Males consistently recorded slightly higher child labour rates than females.
 
