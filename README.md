@@ -25,6 +25,9 @@ Child labour remains a significant challenge, with varying prevalence across cou
 - Power BI
 - Microsoft Excel
 
+## Dashboard
+![Dashboard Screenshot](ChildLabourDashboard.png)
+
 ## 💡Key Insights
 - Average child labour rate: 12.20%
 - Burundi recorded the highest child labour rate.
